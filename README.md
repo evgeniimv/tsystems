@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Evgenii Mukhamadiarov
-* Codeship : https://app.codeship.com/projects/eb09e250-7ceb-0137-a28f-4a0cb70c3784/status?branch=master
+* Codeship : [ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/eb09e250-7ceb-0137-a28f-4a0cb70c3784/status?branch=master)](https://app.codeship.com/projects/eb09e250-7ceb-0137-a28f-4a0cb70c3784)
 
 
 
